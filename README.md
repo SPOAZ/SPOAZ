@@ -6,7 +6,7 @@ Project Overview
 
 1. 서비스 소개 <br/>
    사용자의 다양한 음악적 취향과 요구를 충족시키기 위해 세 가지 유형의 음악추천 서비스를 기획하였습니다. 
-   ![스크린샷 2024-02-27 오후 3 06 29](https://github.com/SPOAZ/SPOAZ/assets/84179278/af6d164c-86a1-413e-87e0-b1f7e594ace5)
+  ![img](https://github.com/SPOAZ/SPOAZ/assets/87933620/7027a1cb-e33d-467c-8227-8aed240252c6)
   
    
 3. 프로젝트 핵심 Task 소개
@@ -26,7 +26,7 @@ Project Overview
 
 프로젝트 워크플로우 및 파이프라인
 ---
-![스크린샷 2024-02-27 오후 2 42 04](https://github.com/SPOAZ/SPOAZ/assets/84179278/903ac3e4-e8ce-4c02-9065-584e112c6b8b)
+![img2](https://github.com/SPOAZ/SPOAZ/assets/87933620/4ad9fa86-d631-4a34-a735-fab86fe66aeb)
 
 Member
 ---
