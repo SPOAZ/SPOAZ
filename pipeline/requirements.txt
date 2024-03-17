@@ -1,0 +1,6 @@
+apache-beam[gcp] 
+oauth2client==3.0.0 
+google-cloud-pubsub 
+spotipy
+grpcio
+google-cloud-bigquery

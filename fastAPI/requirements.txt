@@ -1,0 +1,6 @@
+fastapi
+pydantic
+requests
+spotipy
+google-cloud-pubsub
+uvicorn

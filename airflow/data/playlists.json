@@ -1,0 +1,56 @@
+{
+  "href": "https://api.spotify.com/v1/users/31rzbll3bcbqdc6uu5tdzhr636ti/playlists?offset=0&limit=20",
+  "items": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1oSUCQfnChouIBwqD2zByg"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1oSUCQfnChouIBwqD2zByg",
+      "id": "1oSUCQfnChouIBwqD2zByg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27356c426e66ee27ccf84d180fdab67616d0000b2738c7c289c0d076cae09c33be7ab67616d0000b273a1d785640d9421ec17ea8fe6ab67616d0000b273e51bbf5d975cb4b33bd9229d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27356c426e66ee27ccf84d180fdab67616d0000b2738c7c289c0d076cae09c33be7ab67616d0000b273a1d785640d9421ec17ea8fe6ab67616d0000b273e51bbf5d975cb4b33bd9229d",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27356c426e66ee27ccf84d180fdab67616d0000b2738c7c289c0d076cae09c33be7ab67616d0000b273a1d785640d9421ec17ea8fe6ab67616d0000b273e51bbf5d975cb4b33bd9229d",
+          "width": 60
+        }
+      ],
+      "name": "Playlist",
+      "owner": {
+        "display_name": "\uc784\ud601",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/31rzbll3bcbqdc6uu5tdzhr636ti"
+        },
+        "href": "https://api.spotify.com/v1/users/31rzbll3bcbqdc6uu5tdzhr636ti",
+        "id": "31rzbll3bcbqdc6uu5tdzhr636ti",
+        "type": "user",
+        "uri": "spotify:user:31rzbll3bcbqdc6uu5tdzhr636ti"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTgsN2IxZDhkZmRiYzJkZWJkZDc4ZTE0ZDIyZDhhYjEwZWUwMzU1ZTFkMg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1oSUCQfnChouIBwqD2zByg/tracks",
+        "total": 17
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1oSUCQfnChouIBwqD2zByg"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 1
+}
